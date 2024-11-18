@@ -1,7 +1,8 @@
 # Hey There! 👋
 **I'm Wafeeqa** - I'm a fullstack developer, music nerd, and queen's student. I'm interested in stardew valley, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
 
-[![SkillIcons](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,tailwind,next,nginx,mongodb,nodejs,npm,opencv,postman,threejs, npm, linux, tensorflow)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)

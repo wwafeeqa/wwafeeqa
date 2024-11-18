@@ -5,9 +5,10 @@
 
 
 ![status](https://api.statusbadges.me/badge/status/604842692081614868?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/604842692081614868)
 ![vscode](https://api.statusbadges.me/badge/vscode/604842692081614868)
 [![spotify](https://api.statusbadges.me/badge/spotify/604842692081614868)](https://api.statusbadges.me/openspotify/604842692081614868)
+![playing](https://api.statusbadges.me/badge/playing/604842692081614868)
+
 
 <details>
   <summary>Github Stats ⚡</summary>

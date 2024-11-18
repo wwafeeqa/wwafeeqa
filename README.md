@@ -5,7 +5,10 @@
 
 - reach me at wafeeqa.c@queensu.ca 
 
-- currently an enjoyer of **collecting (mostly jazz) records, bouldering, and stardew valley**
+- currently an enjoyer of
+          - **collecting (mostly jazz) records**
+          - **bouldering**
+          - **stardew valley**
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,13 +1,13 @@
 # Hey There! 👋
 **I'm Wafeeqa** - I'm a fullstack developer, music nerd, and queen's student. I'm interested in stardew valley, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,java,html,css,nodejs,py,tailwind,next,mongodb,postman,linux)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
 
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://api.statusbadges.me/badge/status/604842692081614868?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/604842692081614868)
+![vscode](https://api.statusbadges.me/badge/vscode/604842692081614868)
+[![spotify](https://api.statusbadges.me/badge/spotify/604842692081614868)](https://api.statusbadges.me/openspotify/604842692081614868)
 
 <details>
   <summary>Github Stats ⚡</summary>

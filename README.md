@@ -1,5 +1,5 @@
 # Hey There! 🌸
-**I'm Wafeeqa** - I'm a fullstack developer, music nerd, and queen's student. I'm interested in stardew valley, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
+**I'm Wafeeqa** - I'm a fullstack developer, music nerd, and queen's student. I'm interested in music theory, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,nginx,py,java,c,git,express,mongodb,postman,bash,npm,opencv,tensorflow,threejs,vercel)](https://skillicons.dev)<br/>
 

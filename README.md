@@ -1,5 +1,5 @@
-# Hey There! 🌸
-**I'm Wafeeqa** - a fullstack developer, music nerd, and queen's student. In my free time I enjoy learning about music theory, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
+# hello! 🌸
+**i'm wafeeqa** - a fullstack developer, music enthusiast, and queen's student. in my free time I enjoy learning about music theory, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,tailwind,nodejs,nginx,py,java,c,git,express,mongodb,postman,bash,npm,opencv,tensorflow,threejs,vercel)](https://skillicons.dev)<br/>
 

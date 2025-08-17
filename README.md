@@ -8,7 +8,7 @@ here are the tools i am comfortable with:
 
 and here are the ones i am looking to upskill:
 
-[![SkillIcons](https://skillicons.dev/icons?i=spring,go,docker,aws,kubernetes,cpp,mongodb,jenkins)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=spring,go,docker,aws,kubernetes,cpp,mongodb)](https://skillicons.dev)<br/>
 
 ![status](https://api.statusbadges.me/badge/status/604842692081614868?simple=true)
 ![vscode](https://api.statusbadges.me/badge/vscode/604842692081614868)

@@ -12,10 +12,10 @@ and here are the ones i am looking to upskill:
 
 
 <p align="center">
-  <img src="[![LinkedIn](https://img.shields.io/badge/connect%20with%20me-LinkedIn-blue?)](https://www.linkedin.com/in/wafeeqa-c/)
+  [![LinkedIn](https://img.shields.io/badge/connect%20with%20me-LinkedIn-blue?)](https://www.linkedin.com/in/wafeeqa-c/)
   ![vscode](https://api.statusbadges.me/badge/vscode/604842692081614868)
   [![spotify](https://api.statusbadges.me/badge/spotify/604842692081614868)](https://api.statusbadges.me/openspotify/604842692081614868)
-  ![playing](https://api.statusbadges.me/badge/playing/604842692081614868)">
+  ![playing](https://api.statusbadges.me/badge/playing/604842692081614868)
 </p>
 
 <details>

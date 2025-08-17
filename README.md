@@ -4,7 +4,7 @@
 
 here are the tools i am comfortable with:
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,express,materialui,nodejs,mysql,django,git,bash,linux,vercel)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,express,materialui,nodejs,mysql,django,bash,linux,vercel,git)](https://skillicons.dev)<br/>
 
 and here are the ones i am looking to upskill:
 

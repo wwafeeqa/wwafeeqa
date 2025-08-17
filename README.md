@@ -2,7 +2,7 @@
 **i'm wafeeqa** - a fullstack developer, music enthusiast, and queen's student. in my free time i enjoy learning about music theory, collecting (mostly jazz) records, and building projects to encourage productivity and healthy habits.
 
 
-here are the tools i'm currently using on a regular basis:
+here are the tools i am comfortable with:
 
 [![SkillIcons](https://skillicons.dev/icons?i=react,express,materialui,nodejs,mysql,django,nginx,git,bash,linux,vercel)](https://skillicons.dev)<br/>
 

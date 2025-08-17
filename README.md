@@ -4,7 +4,7 @@
 
 here are the tools i'm currently using on a regular basis:
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,tailwind,express,nodejs,django,nginx,git,postman,bash,npm,linux)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,express,nodejs,SQL,django,nginx,git,postman,bash,npm,linux)](https://skillicons.dev)<br/>
 
 and here are the ones i am looking to upskill:
 

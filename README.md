@@ -4,11 +4,11 @@
 
 here are the tools i'm currently using on a regular basis:
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,tailwind,express,nodejs,django,nginx,py,java,c,git,mongodb,postman,bash,npm,opencv,tensorflow,threejs,vercel)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,tailwind,express,nodejs,django,nginx,py,git,mongodb,postman,bash,npm)](https://skillicons.dev)<br/>
 
 and here are the ones i am looking to upskill:
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,c,git,mongodb,postman,bash,npm,opencv,tensorflow,threejs,vercel)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,c,mongodb,postman,bash,npm,opencv,tensorflow,threejs,vercel)](https://skillicons.dev)<br/>
 
 ![status](https://api.statusbadges.me/badge/status/604842692081614868?simple=true)
 ![vscode](https://api.statusbadges.me/badge/vscode/604842692081614868)
